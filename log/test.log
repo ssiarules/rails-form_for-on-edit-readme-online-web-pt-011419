@@ -2105,3 +2105,4 @@ Processing by PostsController#show as HTML
   Rendering posts/show.html.erb within layouts/application
   Rendered posts/show.html.erb within layouts/application (0.7ms)
 Completed 200 OK in 7ms (Views: 4.5ms | ActiveRecord: 0.1ms)
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
